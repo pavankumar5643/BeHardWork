@@ -6,6 +6,7 @@ public class MotiveYourSelf
 	{
 		System.out.println("All is well");
 		System.out.println("Done");
+		System.out.println("hello");
 		
 	}
 
